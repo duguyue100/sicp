@@ -8,4 +8,4 @@
 ; the procedure evaluate first argument otherwise it will
 ; enter a infinite stack.
 
-(test 0 p)
+(test 0 (p))

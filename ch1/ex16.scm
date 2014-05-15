@@ -17,7 +17,10 @@
 	  (sqrt-iter (improve guess x)
 		     x)))
 ; will abort from maximum recursion depth
-;
+; the applicative-order evaluation will evaluate both parameters
+; from the start.
+; the recursion is performed when the function is called
+; therefore new-if can never really compare like if.
 
 (define (sqrt x)
   (sqrt-iter 1.0 x))
