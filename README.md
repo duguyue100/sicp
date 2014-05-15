@@ -1,4 +1,16 @@
-sicp
+Structure and Interpretation of Computer Programs Practices
 ====
 
-All practices from Structure and Interpretation of Computer Programs
+##Introduction
+
+##Updates
+
+##Notes
+
+##Contacts
+
+Hu Yuhuang
+
+_No. 42, North, Flatland_
+
+Email: duguyue100@gmail.com
